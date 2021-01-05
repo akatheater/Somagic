@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de171fef1efd61a4fae3c08c1f7f27b9, type: 3}
+  m_Name: NpcCommon
+  m_EditorClassIdentifier: 
+  NpcID: 
+  NpcName: 
+  NpcMaterial: {fileID: 0}
+  NpcLife: 0
+  curMood: 0
+  firstName: 
+  lastName: 
+  job: 
+  reason: 
+  iniMood: 0
+  nature: 0
+  dialog1: 
+  dialog2: 
+  dialog3: 
+  dialog4: 
+  answer1_1: 
+  answer1_2: 
+  NpcInfomation: 
